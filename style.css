@@ -1,0 +1,56 @@
+.Raico-pic {
+    width: 155px;
+    height: 52px;
+
+
+}
+
+body {
+    margin: 0;
+}
+
+
+.Raico {
+    background-color: rgb(218, 212, 212);
+    height: 60px;
+    position: sticky;
+
+}
+
+.header {
+    height: 70px;
+   
+}
+
+
+
+.img-carousel {
+    height: 500px;
+}
+
+
+.card-size{
+    width: 11px;
+}
+.link{
+    text-decoration: none;
+}
+.trend{
+   
+    max-height: 100%;
+    background-color: #ddd;;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

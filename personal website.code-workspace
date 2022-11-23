@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "D:/HTML"
+		},
+		{
+			"path": "D:/face book"
+		},
+		{
+			"path": "D:/puma"
+		},
+		{
+			"path": "D:/dream 11"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Desktop"
+	}
+}
